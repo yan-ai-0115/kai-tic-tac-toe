@@ -1,8 +1,10 @@
 // import l10n.js first
-import 'kaios-gaia-l10n';
-import './index.css';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Game from './views/game'
+import './style/index.scss';
 
-window.addEventListener('load', () => {
-  const anchor = document.getElementById('app-link');
-  anchor.focus();
-});
+
+ReactDOM.render(<Game />, document.getElementById("app"));
+
+

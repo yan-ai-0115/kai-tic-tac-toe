@@ -1,9 +1,10 @@
 {
-  "name": "my-test-1228-1",
+  "name": "kai-fun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "kaios-scripts": "0.0.9"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "scripts": {
     "start": "kaios-scripts start",
@@ -20,5 +21,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "kaios-scripts": "0.0.9",
+    "node-sass": "^4.0.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
 }

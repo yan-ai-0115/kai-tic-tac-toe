@@ -1,11 +1,6 @@
 {
-  "name": "KaiOS",
-  "description": "Demonstrates a basic KaiOS app",
+  "name": "KaiOS Fun",
   "version": "0.0.1",
-  "developer": {
-    "name": "Your name",
-    "url": "http://example.com"
-  },
   "launch_path": "/index.html",
     "icons": {
     "56": "/icons/app_56.png",
