@@ -1,7 +1,7 @@
 // import l10n.js first
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Game from './views/game'
+import Game from './views/Game/Game'
 import './style/index.scss';
 
 
