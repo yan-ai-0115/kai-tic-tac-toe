@@ -1,2 +1,4 @@
 # kai-tic-tac-toe
-tic-tac-toe game write with kaiui
+tic-tac-toe game write with kaiui, run on kaios feature phone
+
+code from https://reactjs.org/tutorial/tutorial.html
